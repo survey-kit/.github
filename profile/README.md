@@ -1,4 +1,4 @@
-Hi there 👋
+## Hi there 👋
 
 I'm [Sebastian Theo](https://github.com/sebtheo) and I'm creating **Survey Kit** in collaboration with [ONS](https://github.com/ONS-Innovation) for my final year dissertation at university.
 
@@ -13,5 +13,3 @@ The project aims to be:
 - Privacy focused
 
 All to boost the dramatic drop in survey response rates.
-
-<img width="64" height="64" alt="logo_v3" src="https://github.com/user-attachments/assets/14cd2329-f9c2-4066-94f4-bafc9326509c" />
