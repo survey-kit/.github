@@ -2,9 +2,9 @@
 
 I'm [Sebastian Theo](https://github.com/sebtheo) and I'm creating **Survey Kit** in collaboration with [ONS](https://github.com/ONS-Innovation) for my final year dissertation at university.
 
-Eventually, this organisation will be the home of multiple packages that allow developers to easily design and deploy bite-sized, engagement-driven surveys in the cloud.
+Find out more information at [survey-kit.com](https://www.survey-kit.com).
 
-The project aims to be:
+The project is:
 
 - Open-source
 - Mobile first
